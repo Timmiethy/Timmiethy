@@ -72,7 +72,7 @@ AI-powered journaling app shipped in a 36-hour sprint. Multi-provider pipeline (
   <img src="https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white"/>
 </p>
 
-**Data**
+**Database**
 
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
