@@ -13,7 +13,7 @@
 
 ### Hi, I'm Tan 👋
 
-Backend + AI systems engineer. CS student at HCMUT (VNU-HCM), currently building production-grade systems around LLMs — with a strong preference for **determinism, typed contracts, and failure-mode engineering** over prompt-in-a-wrapper demos.
+Software + AI systems engineer. CS student at HCMUT (VNU-HCM), currently building production-grade systems around LLMs — with a strong preference for **determinism, typed contracts, and failure-mode engineering** over prompt-in-a-wrapper demos.
 
 My work sits at the intersection of **scalable backend architecture** and **AI integration**: multi-stage pipelines, MCP server development, agentic tooling, and developer-productivity automation.
 
